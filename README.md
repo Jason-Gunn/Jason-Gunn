@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Jason.
 
-<!--
-**Jason-Gunn/Jason-Gunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Full-stack developer with over 15 years of real-world experience in design, development, and marketing fields. I offer comprehensive support, security, and maintenance for business or personal websites and projects, whether you need them redesigned from scratch or maintained on existing systems. I also design human-led, AI-enhanced workflows and tools for individuals and small businesses.
 
-Here are some ideas to get you started:
+Personal note: My office is a mess, but my Obsidian Vault is *beautiful*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Do
+
+### Development Services
+I'm kind of a utility player, in that I've worked with a ton of platforms, frameworks, software and services over the years. I think it sets me apart a little. I've always enjoyed working with anything anyone throws at me. I don't just design and build new websites and tools, I repair old sites, modernize tools, work with legacy setups, etc. I also get into the boring stuff no one likes doing, like security audits, database management, and documentation review.
+
+### Have a Look
+
+#### JasonGunn.com
+This is my development / design / illustration site. This is where I do most of my current client work:
+**[JasonGunn.com](https://jasongunn.com/)**
+
+#### Dialogistic Industries
+This is my AI consulting company. We have a **strong** focus on giving your human teams better tools, not replacing them with robots. This is where I create human-centric AI workflow architecture and free, open source software:
+**[Dialogistic Industries](https://dialogisticindustries.com/)**
+
+## 🛠️ Things I Use with Regularity 
+
+### Languages & Frameworks
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | HTML, CSS, JavaScript, PHP, Python (a bit) |
+| **Frontend** | jQuery (WordPress' version), Tailwind |
+| **Backend** | Node.js, MySQL, cPanel |
+
+### CMS & Platforms
+- WordPress (Gutenberg, WooCommerce, Essential Blocks, Underscores, Divi, TablePress)
+- Drupal, SharePoint, Joomla, Wix, SquareSpace
+
+### Design & Illustration
+- Adobe Photoshop, Illustrator, InDesign
+- Affinity Photo, Designer, Publisher (which I BOUGHT a year before they made it free 😠)
+- Figma, Canva, Gimp, Inkscape, Clip Studio
+
+### DevOps & Tools
+- VS Code, GitHub, Docker
+- Linux/Windows
+
+### AI & Automation
+- GitHub Copilot, LM Studio, Cline, Gemini CLI
+- NotebookLM, ComfyUI, Invoke
+
+## 📱 Social Stuff
+[![Bluesky](https://img.shields.io/badge/Bluesky-Jason%20Gunn-1DA1F2?style=flat&logo=bluesky)](https://bsky.app/profile/jasongunn.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gunn%20Jason-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gunnjason/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-JasonGunn-6364FF?style=flat&logo=mastodon)](https://social.vivaldi.net/@JasonGunn)
+
+## 😊 There You Have It
+If you got this far, thanks for reading. Send me an email or something. I'll build things for you, and you can give me money... or food, I can't be too picky in our current landscape.
+
