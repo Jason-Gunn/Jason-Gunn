@@ -1,33 +1,24 @@
-# Hi there, I'm Jason.
+# Hi there.
 
-## About Me
-Full-stack developer with over 15 years of real-world experience in design, development, and marketing fields. I offer comprehensive support, security, and maintenance for business or personal websites and projects, whether you need them redesigned from scratch or maintained on existing systems. I also design human-led, AI-enhanced workflows and tools for individuals and small businesses.
+## A Little About Me
+I'm a Full-stack developer with over 15 years of real-world experience in the design, development, and marketing fields. I offer comprehensive support, security, and maintenance for business or personal websites and projects, whether you need them redesigned from scratch or maintained on existing systems. I also design human-led, AI-enhanced workflows and tools for individuals and small businesses.
 
 Personal note: My office is a mess, but my Obsidian Vault is *beautiful*.
 
-## 💻 What I Do
+## Some Things I Do and Where I Do Them
 
-### Development Services
 I'm kind of a utility player, in that I've worked with a ton of platforms, frameworks, software and services over the years. I think it sets me apart a little. I've always enjoyed working with anything anyone throws at me. I don't just design and build new websites and tools, I repair old sites, modernize tools, work with legacy setups, etc. I also get into the boring stuff no one likes doing, like security audits, database management, and documentation review.
 
-### Have a Look
+### [M60 Design Group](https://m60designgroup.com/)
+My umbrella company (more or less) for billing and tax purposes, etc. It's composed of two main sites:
 
-#### JasonGunn.com
-This is my development / design / illustration site. This is where I do most of my current client work:
-**[JasonGunn.com](https://jasongunn.com/)**
+#### [JasonGunn.com](https://jasongunn.com/)
+My development / design / illustration site. This is where I do most of my current client work.
 
-#### Dialogistic Industries
-This is my AI consulting company. We have a **strong** focus on giving your human teams better tools, not replacing them with robots. This is where I create human-centric AI workflow architecture and free, open source software:
-**[Dialogistic Industries](https://dialogisticindustries.com/)**
+#### [Dialogistic Industries](https://dialogisticindustries.com/)
+My AI consulting company. We have a **strong** focus on giving your human teams better tools, not replacing them with robots. This is where we create **human-centric** AI workflow architecture and free, open source software.
 
-## 🛠️ Things I Use with Regularity 
-
-### Languages & Frameworks
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | HTML, CSS, JavaScript, PHP, Python (a bit) |
-| **Frontend** | jQuery (WordPress' version), Tailwind |
-| **Backend** | Node.js, MySQL, cPanel |
+## Things I Use with Regularity 
 
 ### CMS & Platforms
 - WordPress (Gutenberg, WooCommerce, Essential Blocks, Underscores, Divi, TablePress)
@@ -46,11 +37,13 @@ This is my AI consulting company. We have a **strong** focus on giving your huma
 - GitHub Copilot, LM Studio, Cline, Gemini CLI
 - NotebookLM, ComfyUI, Invoke
 
-## 📱 Social Stuff
+## Social Stuff
+I'm not great at social media, but I'm working on it. Here are my (very infrequently updated) SM accounts:
+
 [![Bluesky](https://img.shields.io/badge/Bluesky-Jason%20Gunn-1DA1F2?style=flat&logo=bluesky)](https://bsky.app/profile/jasongunn.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gunn%20Jason-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gunnjason/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-JasonGunn-6364FF?style=flat&logo=mastodon)](https://social.vivaldi.net/@JasonGunn)
 
-## 😊 There You Have It
+## There You Have It
 If you got this far, thanks for reading. Send me an email or something. I'll build things for you, and you can give me money... or food, I can't be too picky in our current landscape.
 
