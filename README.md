@@ -24,11 +24,6 @@ My AI consulting company. We have a **strong** focus on giving your human teams 
 - WordPress (Gutenberg, WooCommerce, Essential Blocks, Underscores, Divi, TablePress)
 - Drupal, SharePoint, Joomla, Wix, SquareSpace
 
-### Design & Illustration
-- Adobe Photoshop, Illustrator, InDesign
-- Affinity Photo, Designer, Publisher (which I BOUGHT a year before they made it free 😠)
-- Figma, Canva, Gimp, Inkscape, Clip Studio
-
 ### DevOps & Tools
 - VS Code, GitHub, Docker
 - Linux/Windows
@@ -36,6 +31,11 @@ My AI consulting company. We have a **strong** focus on giving your human teams 
 ### AI & Automation
 - GitHub Copilot, LM Studio, Cline, Gemini CLI
 - NotebookLM, ComfyUI, Invoke
+
+### Design & Illustration
+- Adobe Photoshop, Illustrator, InDesign
+- Affinity Photo, Designer, Publisher (which I BOUGHT a year before they made it free 😠)
+- Figma, Canva, Gimp, Inkscape, Clip Studio
 
 ## Social Stuff
 I'm not great at social media, but I'm working on it. Here are my (very infrequently updated) SM accounts:
