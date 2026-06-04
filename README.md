@@ -29,8 +29,12 @@ My AI consulting company. We have a **strong** focus on giving your human teams 
 - Linux/Windows
 
 ### AI & Automation
-- GitHub Copilot, LM Studio, Cline, Gemini CLI
-- NotebookLM, ComfyUI, Invoke
+- GitHub Copilot, Antigravity IDE
+- Local: LM Studio, Ollama, Cline
+- Current team:
+  - GPT-5.4: Architecture, scaffolding, security, 
+  - Sonnet 4.6: Research, drafting, design
+  - DeepSeek v4 Pro: In training... decent (and cheap)
 
 ### Design & Illustration
 - Adobe Photoshop, Illustrator, InDesign
