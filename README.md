@@ -22,7 +22,7 @@ My AI consulting company. We have a **strong** focus on giving your human teams 
 
 ### CMS & Platforms
 - WordPress (Gutenberg, WooCommerce, Essential Blocks, Underscores, Divi, TablePress)
-- Drupal, SharePoint, Joomla, Wix, SquareSpace
+- Grav, SharePoint, Drupal, Wix, SquareSpace
 
 ### DevOps & Tools
 - VS Code, GitHub, Docker
