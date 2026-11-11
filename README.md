@@ -1,53 +1,49 @@
-# Hi there.
+# Hi, I'm Jason Gunn
 
-## A Little About Me
-I'm a Full-stack developer with over 15 years of real-world experience in the design, development, and marketing fields. I offer comprehensive support, security, and maintenance for business or personal websites and projects, whether you need them redesigned from scratch or maintained on existing systems. I also design human-led, AI-enhanced workflows and tools for individuals and small businesses.
+Full-stack WordPress developer with 15+ years of experience building, securing, and modernizing websites. I also design human-led, AI-assisted workflows for individuals and small businesses.
 
-Personal note: My office is a mess, but my Obsidian Vault is *beautiful*.
+**Open to:** freelance projects, full-time roles, and long-term site management (my favorite).
+**Reach me:** [info@jasongunn.com](mailto:info@jasongunn.com) or [LinkedIn](https://www.linkedin.com/in/gunnjason/)
 
-## Some Things I Do and Where I Do Them
+Personal note: My office is a mess, but my Obsidian vault is *beautiful*.
 
-I'm kind of a utility player, in that I've worked with a ton of platforms, frameworks, software and services over the years. I think it sets me apart a little. I've always enjoyed working with anything anyone throws at me. I don't just design and build new websites and tools, I repair old sites, modernize tools, work with legacy setups, etc. I also get into the boring stuff no one likes doing, like security audits, database management, and documentation review.
+## What I do
 
-### [M60 Design Group](https://m60designgroup.com/)
-My umbrella company (more or less) for billing and tax purposes, etc. It's composed of two main sites:
+I'm a utility player. I'll build you a new site or tool, but I'm just as happy repairing an old one, untangling a legacy setup, or doing the boring work nobody wants. Security audits, database management, and documentation review, that kind of thing.
 
-#### [JasonGunn.com](https://jasongunn.com/)
-My development / design / illustration site. This is where I do most of my current client work.
+- [JasonGunn.com](https://jasongunn.com/) is my development, design, and illustration site. Most of my current client work happens here.
+- [Dialogistic Industries](https://dialogisticindustries.com/) is my AI consulting company. The focus is giving human teams better tools, not replacing them with robots. We build human-centric AI workflow architecture and free, open source software.
 
-#### [Dialogistic Industries](https://dialogisticindustries.com/)
-My AI consulting company. We have a **strong** focus on giving your human teams better tools, not replacing them with robots. This is where we create **human-centric** AI workflow architecture and free, open source software.
+Both run under [M60 Design Group](https://m60designgroup.com/).
 
-## Things I Use with Regularity 
+## Skills and tools
 
-### CMS & Platforms
-- WordPress (Gutenberg, WooCommerce, Essential Blocks, Underscores, Divi, TablePress)
-- Grav, SharePoint, Drupal, Wix, SquareSpace
+### Daily(ish) drivers
 
-### DevOps & Tools
-- VS Code, GitHub, Docker
-- Linux/Windows
+| Area | What I use |
+|---|---|
+| **WordPress** | Custom themes, plugins, and Gutenberg blocks. WooCommerce. Custom post types and taxonomies. Underscores, Divi, Essential Blocks, TablePress |
+| **Code** | PHP, MySQL, JavaScript (React, jQuery), TypeScript, HTML5, CSS3, Tailwind, Bootstrap, Astro, REST APIs |
+| **Delivery** | Git, GitHub, Docker, VS Code, WP-CLI, SSH, cPanel, DNS/SSL, staging environments, backups, uptime monitoring |
+| **AI** | GitHub Copilot, Claude Code, Cline, Antigravity. Local models with LM Studio, Ollama, and ComfyUI |
+| **Design** | Photoshop, Illustrator, InDesign, Affinity Photo/Designer/Publisher (which I BOUGHT a year before they made it free 😠), Figma, Canva, GIMP, Inkscape |
 
-### AI & Automation
-- GitHub Copilot, Antigravity IDE
-- Local: LM Studio, Ollama, Cline
-- Current team:
-  - GPT-5.4: Architecture, scaffolding, security, 
-  - Sonnet 4.6: Research, drafting, design
-  - DeepSeek v4 Pro: In training... decent (and cheap)
+### Services
 
-### Design & Illustration
-- Adobe Photoshop, Illustrator, InDesign
-- Affinity Photo, Designer, Publisher (which I BOUGHT a year before they made it free 😠)
-- Figma, Canva, Gimp, Inkscape, Clip Studio
+Ongoing site management and support, site and hosting migrations, security audits and hardening, performance optimization, e-commerce builds, and AI governance and workflow design.
 
-## Social Stuff
-I'm not great at social media, but I'm working on it. Here are my (very infrequently updated) SM accounts:
+### Also worked with
 
+Drupal, Grav, SharePoint, Wix, Squarespace, Salesforce, Jira, Confluence, Mailchimp, Brevo, Google Workspace.
+
+## Find me elsewhere
+
+I'm not great at social media, but I'm working on it. These get updated rarely.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jason%20Gunn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gunnjason/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-Jason%20Gunn-1DA1F2?style=flat&logo=bluesky)](https://bsky.app/profile/jasongunn.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gunn%20Jason-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gunnjason/)
-[![Mastodon](https://img.shields.io/badge/Mastodon-JasonGunn-6364FF?style=flat&logo=mastodon)](https://social.vivaldi.net/@JasonGunn)
+[![Mastodon](https://img.shields.io/badge/Mastodon-Jason%20Gunn-6364FF?style=flat&logo=mastodon)](https://social.vivaldi.net/@JasonGunn)
 
-## There You Have It
-If you got this far, thanks for reading. Send me an email or something. I'll build things for you, and you can give me money... or food, I can't be too picky in our current landscape.
+## There you have it
 
+If you got this far, thanks for reading. Email me at [info@jasongunn.com](mailto:info@jasongunn.com). I'll build things for you, and you can give me money. Food also works.
